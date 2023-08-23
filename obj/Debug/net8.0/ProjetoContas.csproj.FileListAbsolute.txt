@@ -1,0 +1,15 @@
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/bin/Debug/net8.0/ProjetoContas
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/bin/Debug/net8.0/ProjetoContas.deps.json
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/bin/Debug/net8.0/ProjetoContas.runtimeconfig.json
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/bin/Debug/net8.0/ProjetoContas.dll
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/bin/Debug/net8.0/ProjetoContas.pdb
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/obj/Debug/net8.0/ProjetoContas.csproj.AssemblyReference.cache
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/obj/Debug/net8.0/ProjetoContas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/obj/Debug/net8.0/ProjetoContas.AssemblyInfoInputs.cache
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/obj/Debug/net8.0/ProjetoContas.AssemblyInfo.cs
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/obj/Debug/net8.0/ProjetoContas.csproj.CoreCompileInputs.cache
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/obj/Debug/net8.0/ProjetoContas.dll
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/obj/Debug/net8.0/refint/ProjetoContas.dll
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/obj/Debug/net8.0/ProjetoContas.pdb
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/obj/Debug/net8.0/ProjetoContas.genruntimeconfig.cache
+/Users/brenomaistro/RiderProjects/ProjetoContas/ProjetoContas/obj/Debug/net8.0/ref/ProjetoContas.dll
